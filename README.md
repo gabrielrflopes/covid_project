@@ -1,5 +1,9 @@
 # Panorama do COVID-19 no Brasil e no mundo
 
+<p align="center">
+  <img src="capa_cvd_git.png" >
+</p>
+
 Neste projeto, analisei o panorama da pandemia do COVID-19 no Brasil e no mundo. Para isto, usei o dataset fornecido pelo *Our World in Data*, que é atualizado diariamente com dados sobre casos, mortes, vacinações, hospitalizações, além de dados populacionais e socioeconômicos.
 
 O dataset pode ser encontrado nesse link: https://github.com/owid/covid-19-data/tree/master/public/data
