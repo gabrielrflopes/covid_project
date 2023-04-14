@@ -12,7 +12,7 @@ O dataset pode ser encontrado nesse link: https://github.com/owid/covid-19-data/
 
 - Identificar como aconteceu a evolução da COVID-19 ao redor do mundo, observando o crescimento dos casos e das mortes
 
-- Avaliar os números mais recentes de casos e mortes e quais país lideram esse ranking.
+- Avaliar os números mais recentes de casos e mortes e quais países lideram esse ranking.
 
 - Entender a evolução e o impacto da vacinação no número de casos confirmados e nas mortes atribuídas à doença;
 
