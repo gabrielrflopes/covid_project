@@ -1,5 +1,5 @@
 # Panorama do COVID-19 no Brasil e no mundo
-<sub>TAGS: Análise Exploratória de Dados; Mineração de Dados; Redução de Dimensionalidade; Visualização de Dados; Filtragem de Dados; Seleção de Atributos; 
+<sub>TAGS: Análise Exploratória de Dados; Mineração de Dados; Redução de Dimensionalidade; Visualização de Dados; Filtragem de Dados; Seleção de Atributos
 
 <p align="center">
   <img src="capa_cvd_git.png" >
