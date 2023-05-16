@@ -21,7 +21,7 @@ O dataset pode ser encontrado nesse link: https://github.com/owid/covid-19-data/
 
 ## Link para o projeto:
 
-Para acessar o notebook completo, basta seguir o link: https://github.com/gabrielrflopes/covid_project/blob/main/Panorama_do_COVID_19_no_Brasil_e_no_mundo.ipynb
+[Panorama do COVID-19 no Brasil e no mundo](https://github.com/gabrielrflopes/covid_project/blob/main/Panorama_do_COVID_19_no_Brasil_e_no_mundo.ipynb)
 
 ## Artigo completo no Medium:
 
