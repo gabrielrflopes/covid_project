@@ -26,3 +26,5 @@ O dataset pode ser encontrado nesse link: https://github.com/owid/covid-19-data/
 ## Artigo completo no Medium:
 
 Para acessar o artigo, [clique aqui](https://medium.com/@grflopes/panorama-do-covid-19-no-brasil-e-no-mundo-a67cfb94af5f).
+
+<sub>[Retornar ao Portfólio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
